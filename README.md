@@ -17,7 +17,7 @@
 [<img src="https://img.shields.io/badge/naver-20232a.svg?style=for-the-badge&style=square&logo=naver&logoColor=2DB400" />](rntakt0517@naver.com)
 [<img src="https://img.shields.io/badge/instagram-20232a.svg?style=for-the-badge&style=square&logo=instagram&logoColor=DD2A7B" />](https://www.instagram.com/zn_rla?igsh=aGdtaDU2aDAwMnpz)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rntakt0517&theme=github-stats-transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rntakt0517&color=transparent)](https://git.io/streak-stats)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
