@@ -18,7 +18,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rntakt0517&color=black)](https://git.io/streak-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rntakt0517)](https://solved.ac/rntakt0517/)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rntakt0517&layout=donut&show_icons=true&hide_border=true&bg_color=FFFFF&icon_color=DDDDFF&text_color=2F4F4F&title_color=DDBBDD&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 ![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=100&section=footer)
 
 </div>
